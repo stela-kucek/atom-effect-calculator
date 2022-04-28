@@ -45,4 +45,5 @@ The GUI service and the AtomGenerator service store relevant data (i.e., grid si
 
 <p align="center"> Figure 2 Overall application architecture </p>
 
+If you are interested and want to see in-depth explanations and descriptions of the communication flows, cloud design patterns utilized in this project, storage, queueing, messaging, parallelization and cooperation of the components, I kindly ask you to take a look at my [project report](https://github.com/stela-kucek/atom-effect-calculator/blob/3fd5b2057777754761e070c99b0345109ee0c580/report.pdf).
 
